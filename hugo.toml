@@ -1,0 +1,5 @@
+baseURL = 'https://hack-newport.com/'
+languageCode = 'en-us'
+title = 'Hack Newport'
+
+theme = 'hack-newport'
